@@ -1,8 +1,5 @@
 <h1 align="center">
 <br>
-  <img src="" alt="YOUR_PROJECT_NAME" width="50">
-<br>
-<br>
 Aplicativo Conta Correnet
 </h1>
 
